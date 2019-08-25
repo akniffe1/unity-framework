@@ -1,2 +1,2 @@
 # unity-framework
-Hunting, Incident Response, Threat Intelligence, Security Engineering on Knative + Airflow and packed with helm
+Batteries Included Threat Hunting, Incident Response, Threat Intelligence, Detection and Response Engineering, and Vulnerability Management on Knative + Airflow and packed with helm. 
